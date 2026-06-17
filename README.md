@@ -114,6 +114,7 @@ IP_SOURCES=(
 <hr>
 <h2>📌 Notes</h2>
 
+
 <ul>
 <li>Ensure <code>sendmail</code> is installed and running on your system.</li>
 <li>The script checks multiple public IP sources to reduce false alerts.</li>
